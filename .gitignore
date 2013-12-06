@@ -1,0 +1,9 @@
+bin/
+build/
+dist/
+musica/
+nbproject/
+persistencia/*
+biodance.jar
+biodanza.exe
+pathWindows.txt
