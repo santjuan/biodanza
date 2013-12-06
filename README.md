@@ -17,3 +17,5 @@ Collections contain Albums, which are composed of Songs. A Song can be associate
 In order to work properly the system needs a file named PathLinux.txt or PathWindows.txt (depending on the OS) which has to contain the Path to the Songs folder. In the Songs folder first there must be folders with the Collections, then each Collection should contain Albums and each Album should contain the songs as .mp3 files.
 
 The template, classes and exercises should be added manually through the UI.
+
+Since the system was developed by a single person, I didn't use Javadoc nor commented the code, however I plan to do it in a future version.
