@@ -1,7 +1,7 @@
 biodanza
 ========
 
-Software to manage and create Biodanza (http://en.wikipedia.org/wiki/Biodanza) classes. 
+Software to manage and create Biodanza classes. 
 
 Biodanza is described in wikipedia (http://en.wikipedia.org/wiki/Biodanza) as:
 
